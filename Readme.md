@@ -1,0 +1,1 @@
+Esse é a minha primeira linha de GitLogs
