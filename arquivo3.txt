@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Meu código da ramificação secundaria
+=======
+1234567
+>>>>>>> header
